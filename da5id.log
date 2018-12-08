@@ -1,0 +1,672 @@
+2018-09-11T06:57:28.490985+01:00 (1) info: Logging into server %server
+2018-09-11T06:57:29.251334+01:00 (1) info: Session: address	matrix.rob-bolton.co.uk
+cmd-str	`
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gZjEjRzhVLWxhN2osSmxYVQowMDJmc2lnbmF0dXJlINjaB89S5eGQkGyo47d2OWuGu-ddL5S-3PcwWbqFQR2UCg
+username	da5id
+2018-09-11T06:57:29.262398+01:00 (6) info: Session to sync: address	matrix.rob-bolton.co.uk
+cmd-str	`
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+sync-schedule	Tap<140340003107088>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gZjEjRzhVLWxhN2osSmxYVQowMDJmc2lnbmF0dXJlINjaB89S5eGQkGyo47d2OWuGu-ddL5S-3PcwWbqFQR2UCg
+username	da5id
+2018-09-11T06:57:29.263964+01:00 (6) info: Syncing with address	matrix.rob-bolton.co.uk
+cmd-str	`
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+sync-schedule	Tap<140340003107088>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gZjEjRzhVLWxhN2osSmxYVQowMDJmc2lnbmF0dXJlINjaB89S5eGQkGyo47d2OWuGu-ddL5S-3PcwWbqFQR2UCg
+username	da5id
+2018-09-11T06:57:30.261988+01:00 (6) info: Session to sync: address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246031_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<140340003107088>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gZjEjRzhVLWxhN2osSmxYVQowMDJmc2lnbmF0dXJlINjaB89S5eGQkGyo47d2OWuGu-ddL5S-3PcwWbqFQR2UCg
+username	da5id
+2018-09-11T06:57:30.263299+01:00 (6) info: Syncing with address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246031_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<140340003107088>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gZjEjRzhVLWxhN2osSmxYVQowMDJmc2lnbmF0dXJlINjaB89S5eGQkGyo47d2OWuGu-ddL5S-3PcwWbqFQR2UCg
+username	da5id
+2018-09-11T06:57:31.263229+01:00 (6) info: Session to sync: address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246031_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<140340003107088>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gZjEjRzhVLWxhN2osSmxYVQowMDJmc2lnbmF0dXJlINjaB89S5eGQkGyo47d2OWuGu-ddL5S-3PcwWbqFQR2UCg
+username	da5id
+2018-09-11T06:57:31.264032+01:00 (6) info: Syncing with address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246031_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<140340003107088>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gZjEjRzhVLWxhN2osSmxYVQowMDJmc2lnbmF0dXJlINjaB89S5eGQkGyo47d2OWuGu-ddL5S-3PcwWbqFQR2UCg
+username	da5id
+2018-09-11T06:57:32.264790+01:00 (6) info: Session to sync: address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246031_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<140340003107088>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gZjEjRzhVLWxhN2osSmxYVQowMDJmc2lnbmF0dXJlINjaB89S5eGQkGyo47d2OWuGu-ddL5S-3PcwWbqFQR2UCg
+username	da5id
+2018-09-11T06:57:32.266645+01:00 (6) info: Syncing with address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246031_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<140340003107088>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gZjEjRzhVLWxhN2osSmxYVQowMDJmc2lnbmF0dXJlINjaB89S5eGQkGyo47d2OWuGu-ddL5S-3PcwWbqFQR2UCg
+username	da5id
+2018-09-11T06:57:33.264520+01:00 (6) info: Session to sync: address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246031_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<140340003107088>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gZjEjRzhVLWxhN2osSmxYVQowMDJmc2lnbmF0dXJlINjaB89S5eGQkGyo47d2OWuGu-ddL5S-3PcwWbqFQR2UCg
+username	da5id
+2018-09-11T06:57:33.265935+01:00 (6) info: Syncing with address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246031_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<140340003107088>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gZjEjRzhVLWxhN2osSmxYVQowMDJmc2lnbmF0dXJlINjaB89S5eGQkGyo47d2OWuGu-ddL5S-3PcwWbqFQR2UCg
+username	da5id
+2018-09-11T06:57:34.266454+01:00 (6) info: Session to sync: address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246031_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<140340003107088>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gZjEjRzhVLWxhN2osSmxYVQowMDJmc2lnbmF0dXJlINjaB89S5eGQkGyo47d2OWuGu-ddL5S-3PcwWbqFQR2UCg
+username	da5id
+2018-09-11T06:57:34.267532+01:00 (6) info: Syncing with address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246031_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<140340003107088>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gZjEjRzhVLWxhN2osSmxYVQowMDJmc2lnbmF0dXJlINjaB89S5eGQkGyo47d2OWuGu-ddL5S-3PcwWbqFQR2UCg
+username	da5id
+2018-09-11T06:57:35.266648+01:00 (6) info: Session to sync: address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246031_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<140340003107088>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gZjEjRzhVLWxhN2osSmxYVQowMDJmc2lnbmF0dXJlINjaB89S5eGQkGyo47d2OWuGu-ddL5S-3PcwWbqFQR2UCg
+username	da5id
+2018-09-11T06:57:35.267880+01:00 (6) info: Syncing with address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246031_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<140340003107088>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gZjEjRzhVLWxhN2osSmxYVQowMDJmc2lnbmF0dXJlINjaB89S5eGQkGyo47d2OWuGu-ddL5S-3PcwWbqFQR2UCg
+username	da5id
+2018-09-11T06:57:36.267440+01:00 (6) info: Session to sync: address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246031_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<140340003107088>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gZjEjRzhVLWxhN2osSmxYVQowMDJmc2lnbmF0dXJlINjaB89S5eGQkGyo47d2OWuGu-ddL5S-3PcwWbqFQR2UCg
+username	da5id
+2018-09-11T06:57:36.268632+01:00 (6) info: Syncing with address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246031_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<140340003107088>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gZjEjRzhVLWxhN2osSmxYVQowMDJmc2lnbmF0dXJlINjaB89S5eGQkGyo47d2OWuGu-ddL5S-3PcwWbqFQR2UCg
+username	da5id
+2018-09-11T06:57:37.268025+01:00 (6) info: Session to sync: address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246031_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<140340003107088>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gZjEjRzhVLWxhN2osSmxYVQowMDJmc2lnbmF0dXJlINjaB89S5eGQkGyo47d2OWuGu-ddL5S-3PcwWbqFQR2UCg
+username	da5id
+2018-09-11T06:58:13.384949+01:00 (1) info: Logging into server %server
+2018-09-11T06:58:14.409719+01:00 (1) info: Session: address	matrix.rob-bolton.co.uk
+cmd-str	`
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gdCxeRE9BUCp2M3V2c2ItbgowMDJmc2lnbmF0dXJlIDWaMirEVUS88YFyR4-H5xK7YPkh6UWg-7xGYCXYUUJeCg
+username	da5id
+2018-09-11T06:58:14.412551+01:00 (8) info: Session to sync: address	matrix.rob-bolton.co.uk
+cmd-str	`
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+sync-schedule	Tap<140353760406864>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gdCxeRE9BUCp2M3V2c2ItbgowMDJmc2lnbmF0dXJlIDWaMirEVUS88YFyR4-H5xK7YPkh6UWg-7xGYCXYUUJeCg
+username	da5id
+2018-09-11T06:58:14.414503+01:00 (8) info: Syncing with address	matrix.rob-bolton.co.uk
+cmd-str	`
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+sync-schedule	Tap<140353760406864>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gdCxeRE9BUCp2M3V2c2ItbgowMDJmc2lnbmF0dXJlIDWaMirEVUS88YFyR4-H5xK7YPkh6UWg-7xGYCXYUUJeCg
+username	da5id
+2018-09-11T06:58:15.412466+01:00 (8) info: Session to sync: address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246033_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<140353760406864>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gdCxeRE9BUCp2M3V2c2ItbgowMDJmc2lnbmF0dXJlIDWaMirEVUS88YFyR4-H5xK7YPkh6UWg-7xGYCXYUUJeCg
+username	da5id
+2018-09-11T06:58:15.413659+01:00 (8) info: Syncing with address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246033_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<140353760406864>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gdCxeRE9BUCp2M3V2c2ItbgowMDJmc2lnbmF0dXJlIDWaMirEVUS88YFyR4-H5xK7YPkh6UWg-7xGYCXYUUJeCg
+username	da5id
+2018-09-11T06:58:16.413146+01:00 (8) info: Session to sync: address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246033_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<140353760406864>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gdCxeRE9BUCp2M3V2c2ItbgowMDJmc2lnbmF0dXJlIDWaMirEVUS88YFyR4-H5xK7YPkh6UWg-7xGYCXYUUJeCg
+username	da5id
+2018-09-11T06:58:16.414346+01:00 (8) info: Syncing with address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246033_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<140353760406864>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gdCxeRE9BUCp2M3V2c2ItbgowMDJmc2lnbmF0dXJlIDWaMirEVUS88YFyR4-H5xK7YPkh6UWg-7xGYCXYUUJeCg
+username	da5id
+2018-09-11T06:58:17.414679+01:00 (8) info: Session to sync: address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246033_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<140353760406864>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gdCxeRE9BUCp2M3V2c2ItbgowMDJmc2lnbmF0dXJlIDWaMirEVUS88YFyR4-H5xK7YPkh6UWg-7xGYCXYUUJeCg
+username	da5id
+2018-09-11T06:58:17.416098+01:00 (8) info: Syncing with address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246033_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<140353760406864>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gdCxeRE9BUCp2M3V2c2ItbgowMDJmc2lnbmF0dXJlIDWaMirEVUS88YFyR4-H5xK7YPkh6UWg-7xGYCXYUUJeCg
+username	da5id
+2018-09-11T06:58:46.052931+01:00 (1) info: Logging into server %server
+2018-09-11T06:58:47.288773+01:00 (8) info: Syncing with address	matrix.rob-bolton.co.uk
+cmd-str	`
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+sync-schedule	Tap<139760249614880>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gbCxWSThxY2RWVHh2USNTbwowMDJmc2lnbmF0dXJlIMWN7fLN9EApDkctQKXmkCMWB55Sfr3igApGuTZZ1feKCg
+username	da5id
+2018-09-11T06:58:48.288448+01:00 (8) info: Syncing with address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246036_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<139760249614880>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gbCxWSThxY2RWVHh2USNTbwowMDJmc2lnbmF0dXJlIMWN7fLN9EApDkctQKXmkCMWB55Sfr3igApGuTZZ1feKCg
+username	da5id
+2018-09-11T06:58:49.288516+01:00 (8) info: Syncing with address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246036_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<139760249614880>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gbCxWSThxY2RWVHh2USNTbwowMDJmc2lnbmF0dXJlIMWN7fLN9EApDkctQKXmkCMWB55Sfr3igApGuTZZ1feKCg
+username	da5id
+2018-09-11T06:58:50.289637+01:00 (8) info: Syncing with address	matrix.rob-bolton.co.uk
+cmd-str	`
+device_id	XPDCZCTUOB
+deviceid	XPDCZCTUOB
+password	itsda5id
+rooms	!AmlyBUjGtShMDmSlHb:matrix.rob-bolton.co.uk !fQufiVZDsoqwHUkvVe:matrix.rob-bolton.co.uk
+since	s27069_246036_9092_30025_3965_3_31_865_1
+sync-schedule	Tap<139760249614880>
+token	MDAyNWxvY2F0aW9uIG1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTNpZGVudGlmaWVyIGtleQowMDEwY2lkIGdlbiA9IDEKMDAzMWNpZCB1c2VyX2lkID0gQGRhNWlkOm1hdHJpeC5yb2ItYm9sdG9uLmNvLnVrCjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gbCxWSThxY2RWVHh2USNTbwowMDJmc2lnbmF0dXJlIMWN7fLN9EApDkctQKXmkCMWB55Sfr3igApGuTZZ1feKCg
+username	da5id
+2018-09-11T06:59:02.958201+01:00 (1) info: Logging into server %server
+2018-09-11T06:59:30.298880+01:00 (1) info: Logging into server %server
+2018-09-11T07:05:21.013727+01:00 (1) info: Logging into server %server
+2018-09-11T07:05:31.489150+01:00 (1) info: Logging into server %server
+2018-09-11T07:06:24.593384+01:00 (1) info: Logging into server %server
+2018-09-11T07:06:26.030975+01:00 (8) info: Events var Array
+2018-09-11T07:07:27.951319+01:00 (1) info: Logging into server %server
+2018-09-11T07:07:29.373973+01:00 (8) info: Events var Array
+2018-09-11T07:07:29.374423+01:00 (8) info: Events[0] Array
+2018-09-11T07:07:42.940648+01:00 (1) info: Logging into server %server
+2018-09-11T07:07:44.317003+01:00 (8) info: Events var Array
+2018-09-11T07:07:44.317738+01:00 (8) info: Events[0] Array
+2018-09-11T07:07:44.318224+01:00 (8) info: Events[0][0] Hash
+2018-09-11T07:08:34.802564+01:00 (1) info: Logging into server %server
+2018-09-11T07:08:36.223520+01:00 (8) info: Evts content	body	Sup cunts
+msgtype	m.text
+event_id	$15366404933666lNmIc:matrix.rob-bolton.co.uk
+origin_server_ts	1536640493182
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	5622830 content	body	Sup cunts
+msgtype	m.text
+event_id	$15366405753667AAGTw:matrix.rob-bolton.co.uk
+origin_server_ts	1536640575866
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	5540146 content	body	Sup cunts
+msgtype	m.text
+event_id	$15366410863668dhlaM:matrix.rob-bolton.co.uk
+origin_server_ts	1536641086217
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	5029795 content	body	Sup cunts
+msgtype	m.text
+event_id	$15366411193669bMraJ:matrix.rob-bolton.co.uk
+origin_server_ts	1536641119066
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	4996946 content	body	Sup cunts
+msgtype	m.text
+event_id	$15366412983670VZNuT:matrix.rob-bolton.co.uk
+origin_server_ts	1536641298300
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	4817712 content	body	Sup cunts
+msgtype	m.text
+event_id	$15366413163671saXbS:matrix.rob-bolton.co.uk
+origin_server_ts	1536641316714
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	4799298 content	body	Sup cunts
+msgtype	m.text
+event_id	$15366414813672tgCAu:matrix.rob-bolton.co.uk
+origin_server_ts	1536641481997
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	4634015 content	body	Sup cunts
+msgtype	m.text
+event_id	$15366415103673jhTOL:matrix.rob-bolton.co.uk
+origin_server_ts	1536641510054
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	4605958 content	body	Sup cunts
+msgtype	m.text
+event_id	$15366418213674VAYNA:matrix.rob-bolton.co.uk
+origin_server_ts	1536641821272
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	4294740 content	body	foo
+msgtype	m.text
+event_id	$15366454153682RPVbd:matrix.rob-bolton.co.uk
+origin_server_ts	1536645415869
+sender	@tiggy:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	700143
+2018-09-11T07:08:36.223990+01:00 (8) info: Events var Array
+2018-09-11T07:08:36.224280+01:00 (8) info: Events[0] Array
+2018-09-11T07:08:36.224655+01:00 (8) info: Events[0][0] Hash
+2018-09-11T07:08:57.017743+01:00 (1) info: Logging into server %server
+2018-09-11T07:08:58.419023+01:00 (8) info: Evts 
+2018-09-11T07:08:58.419570+01:00 (8) info: Events var Array
+2018-09-11T07:08:58.420117+01:00 (8) info: Events[0] Array
+2018-09-11T07:08:58.420809+01:00 (8) info: Events[0][0] Hash
+2018-09-11T07:10:20.244210+01:00 (1) info: Logging into server %server
+2018-09-11T07:10:21.685755+01:00 (8) info: Evts content	body	Sup cunts
+msgtype	m.text
+event_id	$15366404933666lNmIc:matrix.rob-bolton.co.uk
+origin_server_ts	1536640493182
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	5728309 content	body	Sup cunts
+msgtype	m.text
+event_id	$15366405753667AAGTw:matrix.rob-bolton.co.uk
+origin_server_ts	1536640575866
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	5645625 content	body	Sup cunts
+msgtype	m.text
+event_id	$15366410863668dhlaM:matrix.rob-bolton.co.uk
+origin_server_ts	1536641086217
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	5135274 content	body	Sup cunts
+msgtype	m.text
+event_id	$15366411193669bMraJ:matrix.rob-bolton.co.uk
+origin_server_ts	1536641119066
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	5102425 content	body	Sup cunts
+msgtype	m.text
+event_id	$15366412983670VZNuT:matrix.rob-bolton.co.uk
+origin_server_ts	1536641298300
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	4923191 content	body	Sup cunts
+msgtype	m.text
+event_id	$15366413163671saXbS:matrix.rob-bolton.co.uk
+origin_server_ts	1536641316714
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	4904777 content	body	Sup cunts
+msgtype	m.text
+event_id	$15366414813672tgCAu:matrix.rob-bolton.co.uk
+origin_server_ts	1536641481997
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	4739494 content	body	Sup cunts
+msgtype	m.text
+event_id	$15366415103673jhTOL:matrix.rob-bolton.co.uk
+origin_server_ts	1536641510054
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	4711437 content	body	Sup cunts
+msgtype	m.text
+event_id	$15366418213674VAYNA:matrix.rob-bolton.co.uk
+origin_server_ts	1536641821272
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	4400219 content	body	foo
+msgtype	m.text
+event_id	$15366454153682RPVbd:matrix.rob-bolton.co.uk
+origin_server_ts	1536645415869
+sender	@tiggy:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	805622
+2018-09-11T07:10:21.686884+01:00 (8) info: Events var Array
+2018-09-11T07:10:21.688023+01:00 (8) info: Events[0] Array
+2018-09-11T07:10:21.689215+01:00 (8) info: Events[0][0] Hash
+2018-09-11T07:14:17.246221+01:00 (1) info: Logging into server %server
+2018-09-11T07:14:18.734164+01:00 (8) info: Evts content	body	Sup cunts
+msgtype	m.text
+event_id	$15366404933666lNmIc:matrix.rob-bolton.co.uk
+origin_server_ts	1536640493182
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	5965301
+2018-09-11T07:14:18.734610+01:00 (8) info: Events var Array
+2018-09-11T07:14:18.734907+01:00 (8) info: Events[0] Hash
+2018-09-11T07:14:18.735451+01:00 (8) info: Events[0][0] Hash
+2018-09-11T07:14:18.735780+01:00 (8) info: room-dat: $15366404933666lNmIc:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:18.736161+01:00 (8) info: %event
+2018-09-11T07:14:18.738161+01:00 (8) info: room-dat: $15366405753667AAGTw:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:18.738574+01:00 (8) info: %event
+2018-09-11T07:14:18.740692+01:00 (8) info: room-dat: $15366410863668dhlaM:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:18.741281+01:00 (8) info: %event
+2018-09-11T07:14:18.743036+01:00 (8) info: room-dat: $15366411193669bMraJ:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:18.743364+01:00 (8) info: %event
+2018-09-11T07:14:18.744963+01:00 (8) info: room-dat: $15366412983670VZNuT:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:18.745332+01:00 (8) info: %event
+2018-09-11T07:14:18.746935+01:00 (8) info: room-dat: $15366413163671saXbS:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:18.747365+01:00 (8) info: %event
+2018-09-11T07:14:18.748954+01:00 (8) info: room-dat: $15366414813672tgCAu:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:18.749321+01:00 (8) info: %event
+2018-09-11T07:14:18.750801+01:00 (8) info: room-dat: $15366415103673jhTOL:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:54.483542+01:00 (1) info: Logging into server %server
+2018-09-11T07:14:55.734565+01:00 (6) info: Evts content	body	Sup cunts
+msgtype	m.text
+event_id	$15366404933666lNmIc:matrix.rob-bolton.co.uk
+origin_server_ts	1536640493182
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	6002290
+2018-09-11T07:14:55.734969+01:00 (6) info: Events var Array
+2018-09-11T07:14:55.735250+01:00 (6) info: Events[0] Hash
+2018-09-11T07:14:55.735780+01:00 (6) info: Events[0][0] Hash
+2018-09-11T07:14:55.736115+01:00 (6) info: room-dat: $15366404933666lNmIc:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:55.736467+01:00 (6) info: %event
+2018-09-11T07:14:55.738377+01:00 (6) info: room-dat: $15366405753667AAGTw:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:55.738708+01:00 (6) info: %event
+2018-09-11T07:14:55.740733+01:00 (6) info: room-dat: $15366410863668dhlaM:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:55.741239+01:00 (6) info: %event
+2018-09-11T07:14:55.742804+01:00 (6) info: room-dat: $15366411193669bMraJ:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:55.743218+01:00 (6) info: %event
+2018-09-11T07:14:55.745169+01:00 (6) info: room-dat: $15366412983670VZNuT:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:55.745526+01:00 (6) info: %event
+2018-09-11T07:14:55.747016+01:00 (6) info: room-dat: $15366413163671saXbS:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:55.747354+01:00 (6) info: %event
+2018-09-11T07:14:55.749223+01:00 (6) info: room-dat: $15366414813672tgCAu:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:55.749838+01:00 (6) info: %event
+2018-09-11T07:14:55.751768+01:00 (6) info: room-dat: $15366415103673jhTOL:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:55.752108+01:00 (6) info: %event
+2018-09-11T07:14:55.753527+01:00 (6) info: room-dat: $15366418213674VAYNA:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:55.753859+01:00 (6) info: %event
+2018-09-11T07:14:55.755989+01:00 (6) info: room-dat: $15366454153682RPVbd:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:55.756419+01:00 (6) info: %event
+2018-09-11T07:14:55.853402+01:00 (6) info: Evts content	body	Name: Lunetta
+Info: Lunneta is a fresh cow's milk cheese with an aromatic scent and a creamy fresh flavour. It is made from the first milk of spring, then aged in hay for 15 days and later seasoned with sea salt from the Culcasi Salt mines. Accompany this unique cheese with full-bodied red wines or chilled sparkling whites like Prosecco.
+msgtype	m.text
+event_id	$15365836213593Pwmyl:matrix.rob-bolton.co.uk
+origin_server_ts	1536583621145
+sender	@narkoman:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	62874327
+2018-09-11T07:14:55.853788+01:00 (6) info: Events var Array
+2018-09-11T07:14:55.854143+01:00 (6) info: Events[0] Hash
+2018-09-11T07:14:55.854419+01:00 (6) info: Events[0][0] Hash
+2018-09-11T07:14:55.854710+01:00 (6) info: room-dat: $15365836213593Pwmyl:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:55.869928+01:00 (6) info: %event
+2018-09-11T07:14:55.874545+01:00 (6) info: room-dat: $15366418563675Kaszm:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:55.875423+01:00 (6) info: %event
+2018-09-11T07:14:55.876419+01:00 (6) info: room-dat: $15366421663676STnNu:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:55.877248+01:00 (6) info: %event
+2018-09-11T07:14:55.878173+01:00 (6) info: room-dat: $15366428973677dHLmy:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:14:55.878975+01:00 (6) info: %event
+2018-09-11T07:15:50.455713+01:00 (1) info: Logging into server %server
+2018-09-11T07:15:52.001328+01:00 (8) info: Evts content	body	Sup cunts
+msgtype	m.text
+event_id	$15366404933666lNmIc:matrix.rob-bolton.co.uk
+origin_server_ts	1536640493182
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	6058563
+2018-09-11T07:15:52.001773+01:00 (8) info: Events var Array
+2018-09-11T07:15:52.002060+01:00 (8) info: Events[0] Hash
+2018-09-11T07:15:52.002676+01:00 (8) info: Events[0][0] Hash
+2018-09-11T07:15:52.003040+01:00 (8) info: room-dat: $15366404933666lNmIc:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:15:52.003395+01:00 (8) info: %event
+2018-09-11T07:15:52.005452+01:00 (8) info: room-dat: $15366405753667AAGTw:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:15:52.005836+01:00 (8) info: %event
+2018-09-11T07:15:52.007645+01:00 (8) info: room-dat: $15366410863668dhlaM:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:15:52.008193+01:00 (8) info: %event
+2018-09-11T07:15:52.010414+01:00 (8) info: room-dat: $15366411193669bMraJ:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:15:52.010815+01:00 (8) info: %event
+2018-09-11T07:15:52.012490+01:00 (8) info: room-dat: $15366412983670VZNuT:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:15:52.012893+01:00 (8) info: %event
+2018-09-11T07:15:52.014752+01:00 (8) info: room-dat: $15366413163671saXbS:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:15:52.015131+01:00 (8) info: %event
+2018-09-11T07:15:52.016826+01:00 (8) info: room-dat: $15366414813672tgCAu:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:15:52.017201+01:00 (8) info: %event
+2018-09-11T07:15:52.052751+01:00 (8) info: room-dat: $15366415103673jhTOL:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:15:52.053440+01:00 (8) info: %event
+2018-09-11T07:15:52.055534+01:00 (8) info: room-dat: $15366418213674VAYNA:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:15:52.056056+01:00 (8) info: %event
+2018-09-11T07:15:52.057945+01:00 (8) info: room-dat: $15366454153682RPVbd:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:15:52.058400+01:00 (8) info: %event
+2018-09-11T07:15:52.156865+01:00 (8) info: Evts content	body	Name: Lunetta
+Info: Lunneta is a fresh cow's milk cheese with an aromatic scent and a creamy fresh flavour. It is made from the first milk of spring, then aged in hay for 15 days and later seasoned with sea salt from the Culcasi Salt mines. Accompany this unique cheese with full-bodied red wines or chilled sparkling whites like Prosecco.
+msgtype	m.text
+event_id	$15365836213593Pwmyl:matrix.rob-bolton.co.uk
+origin_server_ts	1536583621145
+sender	@narkoman:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	62930600
+2018-09-11T07:15:52.157379+01:00 (8) info: Events var Array
+2018-09-11T07:15:52.157695+01:00 (8) info: Events[0] Hash
+2018-09-11T07:17:11.224345+01:00 (1) info: Logging into server %server
+2018-09-11T07:17:13.111398+01:00 (8) info: Evts content	body	Sup cunts
+msgtype	m.text
+event_id	$15366404933666lNmIc:matrix.rob-bolton.co.uk
+origin_server_ts	1536640493182
+sender	@da5id:matrix.rob-bolton.co.uk
+type	m.room.message
+unsigned	age	6139257
+2018-09-11T07:17:13.111855+01:00 (8) info: Events var Array
+2018-09-11T07:17:13.112292+01:00 (8) info: Events[0] Hash
+2018-09-11T07:17:13.113088+01:00 (8) info: Events[0][0] Hash
+2018-09-11T07:17:13.113575+01:00 (8) info: room-dat: $15366404933666lNmIc:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:17:13.114099+01:00 (8) info: %event
+2018-09-11T07:17:13.116448+01:00 (8) info: room-dat: $15366405753667AAGTw:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:17:13.116852+01:00 (8) info: %event
+2018-09-11T07:17:13.118316+01:00 (8) info: room-dat: $15366410863668dhlaM:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:17:13.118631+01:00 (8) info: %event
+2018-09-11T07:17:13.120112+01:00 (8) info: room-dat: $15366411193669bMraJ:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:17:13.120436+01:00 (8) info: %event
+2018-09-11T07:17:13.122213+01:00 (8) info: room-dat: $15366412983670VZNuT:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:17:13.122850+01:00 (8) info: %event
+2018-09-11T07:17:13.124528+01:00 (8) info: room-dat: $15366413163671saXbS:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:17:13.124879+01:00 (8) info: %event
+2018-09-11T07:17:47.972674+01:00 (1) info: Logging into server %server
+2018-09-11T07:17:49.439880+01:00 (8) info: room-dat: $15366404933666lNmIc:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:17:49.440467+01:00 (8) info: %event
+2018-09-11T07:17:49.443243+01:00 (8) info: room-dat: $15366405753667AAGTw:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:17:49.443633+01:00 (8) info: %event
+2018-09-11T07:17:49.445210+01:00 (8) info: room-dat: $15366410863668dhlaM:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:17:49.445555+01:00 (8) info: %event
+2018-09-11T07:17:49.447056+01:00 (8) info: room-dat: $15366411193669bMraJ:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:17:49.447379+01:00 (8) info: %event
+2018-09-11T07:17:49.448842+01:00 (8) info: room-dat: $15366412983670VZNuT:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:17:49.449176+01:00 (8) info: %event
+2018-09-11T07:17:49.450795+01:00 (8) info: room-dat: $15366413163671saXbS:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:17:49.451140+01:00 (8) info: %event
+2018-09-11T07:17:49.452609+01:00 (8) info: room-dat: $15366414813672tgCAu:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:18:03.415685+01:00 (1) info: Logging into server %server
+2018-09-11T07:18:04.849945+01:00 (8) info: room-dat: $15366404933666lNmIc:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:18:04.850665+01:00 (8) info: %event
+2018-09-11T07:18:04.853900+01:00 (8) info: room-dat: $15366405753667AAGTw:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:18:04.854289+01:00 (8) info: %event
+2018-09-11T07:18:04.855874+01:00 (8) info: room-dat: $15366410863668dhlaM:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:18:04.856256+01:00 (8) info: %event
+2018-09-11T07:18:04.857911+01:00 (8) info: room-dat: $15366411193669bMraJ:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:18:04.858268+01:00 (8) info: %event
+2018-09-11T07:18:04.859703+01:00 (8) info: room-dat: $15366412983670VZNuT:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:18:04.860039+01:00 (8) info: %event
+2018-09-11T07:18:04.861752+01:00 (8) info: room-dat: $15366413163671saXbS:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:18:04.862252+01:00 (8) info: %event
+2018-09-11T07:18:04.864505+01:00 (8) info: room-dat: $15366414813672tgCAu:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:18:04.865108+01:00 (8) info: %event
+2018-09-11T07:18:04.866754+01:00 (8) info: room-dat: $15366415103673jhTOL:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:18:04.867107+01:00 (8) info: %event
+2018-09-11T07:18:04.868651+01:00 (8) info: room-dat: $15366418213674VAYNA:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:18:04.868996+01:00 (8) info: %event
+2018-09-11T07:18:04.896849+01:00 (8) info: room-dat: $15366454153682RPVbd:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:18:04.898316+01:00 (8) info: %event
+2018-09-11T07:18:04.973855+01:00 (8) info: room-dat: $15365836213593Pwmyl:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:18:04.974898+01:00 (8) info: %event
+2018-09-11T07:18:04.979032+01:00 (8) info: room-dat: $15366418563675Kaszm:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:18:04.980062+01:00 (8) info: %event
+2018-09-11T07:18:04.980983+01:00 (8) info: room-dat: $15366421663676STnNu:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:18:04.981453+01:00 (8) info: %event
+2018-09-11T07:18:04.981913+01:00 (8) info: room-dat: $15366428973677dHLmy:matrix.rob-bolton.co.uk, type: Hash
+2018-09-11T07:18:04.982287+01:00 (8) info: %event
+2018-09-11T07:18:04.985596+01:00 (8) info: Sending message body	@tiggy:matrix.rob-bolton.co.uk: Get fucked
+msgtype	m.text
+2018-11-09T13:03:36.496505Z (1) info: Logging into server %server
+2018-11-09T13:04:07.099178Z (1) info: Logging into server %server
+2018-11-09T13:04:08.468479Z (6) info: room-dat: $1541767787317474xNwXB:matrix.org, type: Hash
+2018-11-09T13:04:08.468941Z (6) info: %event
+2018-11-09T13:04:08.470805Z (6) info: room-dat: $1541767788317480cAZzo:matrix.org, type: Hash
+2018-11-09T13:04:08.471044Z (6) info: %event
+2018-11-09T13:04:08.472494Z (6) info: room-dat: $1541767812685bkHIN:matrix.rob-bolton.co.uk, type: Hash
+2018-11-09T13:04:08.472730Z (6) info: %event
+2018-11-09T13:04:08.474154Z (6) info: room-dat: $1541767816686GuzVr:matrix.rob-bolton.co.uk, type: Hash
+2018-11-09T13:04:08.474392Z (6) info: %event
+2018-11-09T13:04:08.476144Z (6) info: room-dat: $1541767838687NnISy:matrix.rob-bolton.co.uk, type: Hash
+2018-11-09T13:04:08.476396Z (6) info: %event
+2018-11-09T13:04:08.477872Z (6) info: room-dat: $1541767839688lJTcI:matrix.rob-bolton.co.uk, type: Hash
+2018-11-09T13:04:08.478120Z (6) info: %event
+2018-11-09T13:04:08.479519Z (6) info: room-dat: $1541767923689YwGqk:matrix.rob-bolton.co.uk, type: Hash
+2018-11-09T13:04:08.479754Z (6) info: %event
+2018-11-09T13:04:08.481147Z (6) info: room-dat: $1541767927690aYEcu:matrix.rob-bolton.co.uk, type: Hash
+2018-11-09T13:04:08.481377Z (6) info: %event
+2018-11-09T13:04:08.482884Z (6) info: room-dat: $1541768248318860RckFN:matrix.org, type: Hash
+2018-11-09T13:04:08.483154Z (6) info: %event
+2018-11-09T13:04:08.484647Z (6) info: room-dat: $1541768301691dPOzx:matrix.rob-bolton.co.uk, type: Hash
+2018-11-09T13:04:08.484890Z (6) info: %event
+2018-11-09T13:04:08.591519Z (6) info: room-dat: $1541627289516813yUOor:matrix.org, type: Hash
+2018-11-09T13:04:08.591834Z (6) info: %event
+2018-11-09T13:04:08.593510Z (6) info: room-dat: $1541627291203ZgpVq:matrix.rob-bolton.co.uk, type: Hash
+2018-11-09T13:04:08.593749Z (6) info: %event
+2018-11-09T13:04:08.595147Z (6) info: room-dat: $1541627302516887nRyhu:matrix.org, type: Hash
+2018-11-09T13:04:08.595379Z (6) info: %event
+2018-11-09T13:04:08.596748Z (6) info: room-dat: $1541628147520731CHqNp:matrix.org, type: Hash
+2018-11-09T13:04:08.596985Z (6) info: %event
+2018-11-09T13:04:08.598388Z (6) info: room-dat: $1541628159520794YikfX:matrix.org, type: Hash
+2018-11-09T13:04:08.598625Z (6) info: %event
+2018-11-09T13:04:08.600028Z (6) info: room-dat: $1541628218521041ndxPj:matrix.org, type: Hash
+2018-11-09T13:04:08.600286Z (6) info: %event
+2018-11-09T13:04:08.601679Z (6) info: room-dat: $154167270222726PaATN:skrem.space, type: Hash
+2018-11-09T13:04:08.601917Z (6) info: %event
+2018-11-09T13:04:08.603442Z (6) info: room-dat: $154168666925856eMmMy:matrix.org, type: Hash
+2018-11-09T13:04:08.603712Z (6) info: %event
+2018-11-09T13:04:08.603974Z (6) info: room-dat: $1541687901360chUQs:matrix.rob-bolton.co.uk, type: Hash
+2018-11-09T13:04:08.604214Z (6) info: %event
+2018-11-09T13:04:08.604474Z (6) info: room-dat: $1541766733314422IRivP:matrix.org, type: Hash
+2018-11-09T13:04:08.604709Z (6) info: %event

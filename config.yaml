@@ -1,0 +1,9 @@
+---
+servers:
+  -
+    password: itsda5id
+    address: matrix.rob-bolton.co.uk
+    username: da5id
+    deviceid: XPDCZCTUOB
+    cmd-str: "`"
+...
